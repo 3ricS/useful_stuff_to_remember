@@ -12,8 +12,8 @@ Submodule hinzufügen:
 Submodule initialisieren:  
 `git submodule init`
 
-Submodule von den entfernten Repos updaten:  
-`git submodule update --remote optional/path/to/submodule`
-
-Submodule lokal updaten:  
+Submodule lokal auf den durch das Repo vorgegebenen Commit bringen:  
 `git pull --recurse-submodules`
+
+Submodules mit den entfernten Submodule-Repos updaten:  
+`git submodule update --remote optional/path/to/submodule`
