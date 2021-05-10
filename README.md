@@ -7,3 +7,5 @@ Vermeidet wiederholtes verzweifeltes Suchen nach hilfreichen Stackoverflow-Threa
 [git](git.md)
 
 [GitHub](github.md)
+
+[WLAN](wlan.md)
