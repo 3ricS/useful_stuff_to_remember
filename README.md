@@ -10,4 +10,6 @@ Vermeidet wiederholtes verzweifeltes Suchen nach hilfreichen Stackoverflow-Threa
 
 [WLAN](wlan.md)
 
+[Netzwerk](netzwerk.md)
+
 [Linux](linux.md)
