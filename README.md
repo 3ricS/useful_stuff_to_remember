@@ -8,8 +8,6 @@ Vermeidet wiederholtes verzweifeltes Suchen nach hilfreichen Stackoverflow-Threa
 
 [GitHub](github.md)
 
-[WLAN](wlan.md)
-
 [Netzwerk](netzwerk.md)
 
 [Linux](linux.md)

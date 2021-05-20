@@ -1,4 +1,11 @@
 # Netzwerk
+## SSH
+- `ssh-keygen`:  
+  SSH-Key erstellen
+- `ssh-copy-id  user@hostname`:  
+  Key auf entfernete Maschine kopieren
+  `-i identityFile`: Neuen Key für entfernte Maschine erstellen
+
 ## Linux
 ### Konfiguration
 - `ip a`:  
