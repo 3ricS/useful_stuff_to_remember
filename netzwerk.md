@@ -6,6 +6,14 @@
   Key auf entfernete Maschine kopieren
   `-i identityFile`: Neuen Key für entfernte Maschine erstellen
 
+### Dateien übertragen
+- `scp FROM TO`/`scp user@website.com:/path/on/server path/to/download`:  
+  Dateien mit Zugriffsrechten des Nutzers auf bestimmten Pfad zu bestimmten Pfad kopieren
+
+## Windows
+Zeige alle Netzwerke mit Verbindungsstärke an:  
+`netsh wlan show all | more`
+
 ## Linux
 ### Konfiguration
 - `ip a`:  
