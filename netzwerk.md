@@ -56,6 +56,7 @@ Netzwerkkonigurationsdatei unter `/etc/netplan/` (`.yaml`-Datei):
   Erreichbare IP-Adressen in dem angegebenen Adressbereich  
   `-sn`: no port scan
   `-PU`: port list (UDP Ping)
+  `-p 80`: port 80
   `-O`: Betriebssystemerkennung aktiviern
 - `sudo arp-scan --interface=ens160 --localnet`:  
   Nach IP-Adressen & MAC-Adressen sowie die Hersteller des Interfaces
@@ -63,3 +64,11 @@ Netzwerkkonigurationsdatei unter `/etc/netplan/` (`.yaml`-Datei):
 ## Brandbreitenmessung
 - `iperf -c <host> -e -i 1`:  
   Bandbreitenmessung zum iperf-Server `<host>`
+
+## Route finden
+`traceroute www.google.de`:  
+Route zu `google.de` finden.  
+ACHTUNG: Mit Vorsicht genießen, die Daten können auch falsch sein. Es werden immer neue IP-Pakete mit unterschiedlicher TTL gesendet, die über neue Routen laufen können.
+
+## Offene Ports anzeigen
+`netstat`
