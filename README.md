@@ -15,3 +15,5 @@ Vermeidet wiederholtes verzweifeltes Suchen nach hilfreichen Stackoverflow-Threa
 [Dateiübertragung](dateiuebertragung.md)
 
 [PostgreSQL](postgresql.md)
+
+[Nextcloud](nextcloud.md)
