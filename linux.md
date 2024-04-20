@@ -22,10 +22,12 @@ Dienst unter `/etc/systemd/system` als `.service`-Datei anlegen ([Template](http
   Alle Timer anzeigen
 
 ## Kommandozeilenhilfen
+- `!l`:  
+  Run last command starting with an l
 - `grep`:  
-  Heraussuchen vom Zeilen
+  searching in lines
 - `wc`:  
   Word Count  
-  `-l`: Zeilen zählen
+  `-l`: cound lines
 - `chsh -s /bin/bash`:  
-  Shell auf Bash-Shell ändern
+  change shell to bash shell
