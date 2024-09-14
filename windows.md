@@ -18,3 +18,7 @@ Last time it was found in `HKEY_CLASSES_ROOT\Directory\shell`.
 
 # change entries in context menu "New"
 Search in registery for `ShellNew` and rename it e.g. to `ShellNew1`.
+
+
+# Update all packages
+`winget upgrade --all --accept-package-agreements --accept-source-agreements`
