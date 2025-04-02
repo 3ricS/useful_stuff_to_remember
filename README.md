@@ -16,6 +16,8 @@ Vermeidet wiederholtes verzweifeltes Suchen nach hilfreichen Stackoverflow-Threa
 
 [PostgreSQL](postgresql.md)
 
+[Python](python.md)
+
 [Nextcloud](nextcloud.md)
 
 [Windows](windows.md)

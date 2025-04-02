@@ -72,3 +72,6 @@ ACHTUNG: Mit Vorsicht genießen, die Daten können auch falsch sein. Es werden i
 
 ## Offene Ports anzeigen
 `netstat`
+
+## Prozesse eines Ports anzeigen
+`sudo lsof -i :<port>`
